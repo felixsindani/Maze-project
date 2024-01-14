@@ -1,7 +1,7 @@
 #ifndef HEADER_H
 #define HEADER_H
 
-#include <SDL2/SDL.h>
+/* #include <SDL2/SDL.h> */
 #include <stdint.h>
 #include <math.h>
 #include <limits.h>
